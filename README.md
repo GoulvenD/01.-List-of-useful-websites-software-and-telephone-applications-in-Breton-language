@@ -1,5 +1,6 @@
 # 01.-List-of-useful-dictionnaires-in-Breton-language
 ENGLISH
+
 You will find a lists of useful websites, softwares and telephone applications :
 Websites :
 - Dictionaries,
@@ -12,6 +13,7 @@ Telephone applications :
 
 
 BREZHONEG
+
 Kavout a rit rolladoù lec'hiennoù, meziantoù hag arloadoù pellgomz pouezus e brezhoneg :
 Lec'hiennoù :
 - Geriadurioù,
@@ -23,6 +25,7 @@ Meziantoù :
 Arloadoù Pellgomz :
 
 FRANÇAIS
+
 Voici plusieurs liste regroupant un certains nombre de sites, logiciels et applications téléphone en breton :
 Sites :
 - Dictionnaires,
