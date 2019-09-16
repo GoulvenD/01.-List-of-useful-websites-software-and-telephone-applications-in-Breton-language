@@ -22,7 +22,7 @@ Lec'hiennoù :
 
 Meziantoù :
 
-Arloadoù Pellgomz :
+Arloadoù Poellgomz :
 
 FRANÇAIS
 
